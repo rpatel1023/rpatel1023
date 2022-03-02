@@ -1,16 +1,20 @@
-### Hi there 👋
+<p><samp> hello! My name's Rushi. </samp></p>
+<p><samp> I'm a 3rd year Computer Engineering student @ the University of Texas at Austin. </samp></p>
+<p><samp> I've been programming since I was 15, mainly working in Python and JavaScript. Check out my website for more about me, and feel free to reach out regarding any of my projects. </samp></p>
 
-<!--
-**rpatel1023/rpatel1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<p>
+  <a href="https://www.linkedin.com/in/patelrushi01/">
+    <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+  </a>
+  <a href="mailto:rpatel1@utexas">
+    <img src="https://img.icons8.com/doodle/48/000000/gmail.png"/>
+  </a>
+  <a href="https://rpatel1023.github.io/">
+   <img src="https://img.icons8.com/doodle/48/000000/globe--v1.png"/>
+  </a>
+  <a href="https://twitter.com/rushiipatel">
+    <img src="https://img.icons8.com/doodle/48/000000/twitter-circled.png"/>
+  </a>
+</p>
